@@ -143,7 +143,7 @@ to explore the full Python analysis pipeline, including data cleaning, EDA, and 
 ## 📊 Dashboard
 
 Power BI dashboard available here:
-[`nextbike_stirling_utilisation_report.pdf`](https://github.com/Imran3285/nextbike-stirling-PowerBI-analysis/blob/main/nextbike_stirling_utilisation_report.pdf)
+[`PowerBI visuals`](https://github.com/Imran3285/nextbike-stirling-PowerBI-analysis/tree/main/PowerBI%20visuals)
 
 Includes:
 - Demand trends
